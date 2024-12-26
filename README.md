@@ -7,7 +7,7 @@
 
 ## REQUIREMENTS:
 ### ●	CURA 4.0 Software 
-### ●	 Autodesk Fusion 360
+### ●	 Autodesk Fusion 360  
 ### ●	 System - Windows 7 or higher, 1 GB RAM.
 
 ## PROCEDURE:
